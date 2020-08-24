@@ -1,4 +1,4 @@
-# RoboCup-At-Home (University Undergraduate Final Project)
+# RoboCup-At-Home (University Undergraduate Dissertation)
 Project: ROBOCUP@HOME (Individual Project)
 
 Technology: Arduino Mega, Arduino IDE, Pixy Cam, Voice Recognition Module, GSM module, Servos & Motors, Windows.
